@@ -76,3 +76,20 @@ A collection of research papers on graph.
 - ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations `ASAPooling` `AAAI 2020` [[pdf]](https://arxiv.org/abs/1911.07979)
 - Path Integral Based Convolution and Pooling for Graph Neural Networks `PANPooling` `NIPS 2020` [[pdf]](https://arxiv.org/abs/2006.16811)
 - Memory-Based Graph Networks `MemPooling` `ICLR 2020` [[pdf]](https://arxiv.org/abs/2002.09518)
+
+## GAE
+- Variational Graph Auto-Encoders `arxiv` [[pdf]](https://arxiv.org/abs/1611.07308)
+- 
+
+## AI4Science
+- Graph-based genome alignment and genotyping with HISAT2 and HISAT-genotype `Nature` [[pdf]](https://www.nature.com/articles/s41587-019-0201-4)
+- Open Graph Benchmark: Datasets for Machine Learning on Graphs `NIPS` [[pdf]](https://arxiv.org/abs/2005.00687)
+- Benchmarking Graph Neural Networks `JMLR` [[pdf]](https://arxiv.org/abs/2003.00982)
+- 
+
+## Survey
+- A Comprehensive Survey on Graph Neural Networks `TNNLS` [[pdf]](https://ieeexplore.ieee.org/document/9046288/)
+- Graph Neural Networks: A Review of Methods and Applications `AI Open` [[pdf]](https://arxiv.org/abs/1812.08434)
+
+## Recommender System
+- Neural Graph Collaborative Filtering `SIGIR 2019` [[pdf]](https://arxiv.org/abs/1905.08108)
