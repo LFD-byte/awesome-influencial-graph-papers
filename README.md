@@ -79,13 +79,11 @@ A collection of research papers on graph.
 
 ## GAE
 - Variational Graph Auto-Encoders `arxiv` [[pdf]](https://arxiv.org/abs/1611.07308)
-- 
 
 ## AI4Science
 - Graph-based genome alignment and genotyping with HISAT2 and HISAT-genotype `Nature` [[pdf]](https://www.nature.com/articles/s41587-019-0201-4)
 - Open Graph Benchmark: Datasets for Machine Learning on Graphs `NIPS` [[pdf]](https://arxiv.org/abs/2005.00687)
 - Benchmarking Graph Neural Networks `JMLR` [[pdf]](https://arxiv.org/abs/2003.00982)
-- 
 
 ## Survey
 - A Comprehensive Survey on Graph Neural Networks `TNNLS` [[pdf]](https://ieeexplore.ieee.org/document/9046288/)
